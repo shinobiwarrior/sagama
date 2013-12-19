@@ -1,0 +1,10 @@
+Secure Login
+http://www.dreamhost.com/dreamscape/2013/05/22/php-security-user-validation-and-sanitization-for-the-beginner/
+http://www.sitepoint.com/php-security-blunders/
+http://stackoverflow.com/questions/1581610/how-can-i-store-my-users-passwords-safely
+http://www.webhostingjams.com/web-development-top-5-php-and-mysql-login-scripttutorials/
+http://edrackham.com/php/php-login-script-tutorial/
+http://net.tutsplus.com/tutorials/php/user-membership-with-php/
+
+http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+http://try.github.io/levels/1/challenges/1
